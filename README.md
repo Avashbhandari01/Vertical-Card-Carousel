@@ -22,3 +22,10 @@ git clone https://github.com/Avashbhandari01/Vertical-Card-Carousel.git
 ```
 
 ### 2. Open the index.html file in your web browser.
+
+## Project Demo:
+
+See the live demo of the vertical card carousel in action here:
+```
+https://avashbhandari01.github.io/Vertical-Card-Carousel/
+```
